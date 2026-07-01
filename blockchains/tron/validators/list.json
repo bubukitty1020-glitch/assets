@@ -4,8 +4,8 @@
         "name": "Trust Nodes",
         "description": "The most trusted & secure crypto wallet",
         "website": "https://trustwallet.com",
-        "payout": {
-            "commission": 100
+        "payout": {1
+            "commission": 500
         }
     },
     {
@@ -13,7 +13,7 @@
         "name": "Binance",
         "description": "Binance is a global cryptocurrency exchange that provides a platform for trading more than 100 cryptocurrencies. Since early 2018, Binance is considered as the biggest cryptocurrency exchange in the world in terms of trading volume.",
         "website": "https://binance.com/en/staking",
-        "payout": {
+        "payout": {1
             "commission": 100
         }
     },
@@ -22,7 +22,7 @@
         "name": "Sesameseed",
         "description": "Sesameseed is a blockchain community providing fair and transparent representation in delegated governance by rewarding Voters for their participation on Tron and Ontology.",
         "website": "https://sesameseed.org",
-        "payout": {
+        "payout": {1
             "commission": 20
         }
     },
@@ -31,7 +31,7 @@
         "name": "InfStones",
         "description": "World's leading cloud infrastructure and staking as a service provicer for blockchains. Supernodes on EOS, TRON, VeChain, Ontology, LOOM, IOST and many other chains.",
         "website": "https://infstones.io/",
-        "payout": {
+        "payout": {1
             "commission": 100
         }
     },
@@ -40,8 +40,8 @@
         "name": "BitGuild",
         "description": "BitGuild is a team of blockchain and gaming industry veterans that aims to create the go-to platform for blockchain gaming and entertainment",
         "website": "https://bitguild.com",
-        "payout": {
-            "commission": 0
+        "payout": {1
+            "commission": 300
         }
     },
     {
@@ -103,8 +103,8 @@
         "name": "Allnodes.com ⚡️ 0% fee",
         "description": "Reliable non-custodial Validator run by the industry leader - Allnodes.",
         "website": "https://wwww.allnodes.com/trx/staking",
-        "payout": {
-            "commission": 0
+        "payout": {1
+            "commission": 500
         }
     }
 ]
